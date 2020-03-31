@@ -46,13 +46,13 @@ The next four labs show four different ways to deploy applications to OpenShift 
 
 To continue with the workshop follow these steps:
 
-1. **>> [Prerequisites](0-prereqs.md) <<**
+0. **>> [Prerequisites](0-prereqs.md) <<**
 1. [Kubernetes Basics](1-k8s.md)
-1. [OPTIONAL: Running the Java microservice locally](2-docker.md)
-1. [OPTIONAL: Understanding the Java implementation](3-java.md)
-1. [Deploying to OpenShift via 'oc' CLI](4-openshift.md)
-1. [Kubernetes-native CI/CD with OpenShift Pipelines](5-openshift-pipelines.md)
-1. [Deploying existing images to OpenShift](6-existing-image.md)
-1. [Deployments of code in GitHub repos](7-github.md)
-1. [Source to Image deployments](8-source-to-image.md)
+2. [OPTIONAL: Running the Java microservice locally](2-docker.md)
+3. [OPTIONAL: Understanding the Java implementation](3-java.md)
+4. [Deploying to OpenShift via 'oc' CLI](4-openshift.md)
+5. [Kubernetes-native CI/CD with OpenShift Pipelines](5-openshift-pipelines.md)
+6. [Deploying existing images to OpenShift](6-existing-image.md)
+7. [Deployments of code in GitHub repos](7-github.md)
+8. [Source to Image deployments](8-source-to-image.md)
 
