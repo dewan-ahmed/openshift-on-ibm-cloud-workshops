@@ -23,7 +23,7 @@ There are [various ways to deploy applications to OpenShift](http://heidloff.net
 
 ## Labs
 
-This workshop has 7 labs and should take around 90 minutues to complete. 
+This workshop has eight labs and should take around 90 minutues to complete. 
 
 The first lab describes how to install all required prerequisites. In the easiest case this means accessing the IBM Cloud Shell.
 
