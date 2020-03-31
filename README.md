@@ -48,7 +48,7 @@ To continue with the workshop follow these steps:
 1. [OPTIONAL: Running the Java microservice locally](2-docker.md)
 1. [OPTIONAL: Understanding the Java implementation](3-java.md)
 1. [Deploying to OpenShift via 'oc' CLI](4-openshift.md)
-1. [Distributed logging with LogDNA and OpenShift on IBM Cloud](5-logdna-openshift.md)
+1. [Kubernetes-native CI/CD with OpenShift Pipelines](5-openshift-pipelines.md)
 1. [Deploying existing images to OpenShift](6-existing-image.md)
 1. [Deployments of code in GitHub repos](7-github.md)
 1. [Source to Image deployments](8-source-to-image.md)
