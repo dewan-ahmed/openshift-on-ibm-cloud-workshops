@@ -1,18 +1,13 @@
-![logo](images/os_logo.png)
+<img src="images/os_logo.png" width="680" height="250" /> <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" width="180" height="200" />
 
-[Red Hat OpenShift on IBM Cloud](https://cloud.ibm.com/docs/openshift?topic=openshift-why_openshift) is an extension of the IBM Cloud Kubernetes Service where IBM manages the OpenShift Container Platform for you. 
+[Kubernetes](https://kubernetes.io/) is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. [Red Hat OpenShift on IBM Cloud](https://cloud.ibm.com/docs/openshift?topic=openshift-why_openshift) is an extension of the IBM Cloud Kubernetes Service where IBM manages the OpenShift Container Platform for you. With Red Hat OpenShift on IBM Cloud developers have a fast and secure way to containerize and deploy enterprise workloads in Kubernetes clusters. OpenShift clusters build on Kubernetes container orchestration that offers consistency and flexibility for your development lifecycle operations.
 
-With Red Hat OpenShift on IBM Cloud developers have a fast and secure way to containerize and deploy enterprise workloads in Kubernetes clusters. OpenShift clusters build on Kubernetes container orchestration that offers consistency and flexibility for your development lifecycle operations.
-
-This workshop covers **Red Hat OpenShift Version 4.3** which is currently in Beta.
-
-If you are looking for the **OpenShift 3.11 version** of this workshop: It is a branch/release in this repository and you can still find it here: [https://github.com/IBM/openshift-on-ibm-cloud-workshops/tree/OpenShift3.11](https://github.com/IBM/openshift-on-ibm-cloud-workshops/tree/OpenShift3.11)
 
 # Deploying Java Microservices to OpenShift on IBM Cloud
 
-Note: In order to run this workshop, you need an [IBM Cloud account](https://cloud.ibm.com/registration). And you need to gain access to a pre-configured OpenShift Cluster on IBM Cloud, your lab instructor will provide information.
+Note: In order to run this workshop, you need an [IBM Cloud account](https://cloud.ibm.com/registration) and access to a pre-configured OpenShift Cluster on IBM Cloud. If you've joined this workshop as part of **Kubernetes and OpenShift World Tour**, your lab instructor will provide information on how to access a pre-configured OpenShift cluster on IBM Cloud.
 
-This workshop demonstrates how to build a microservice with Java and how to deploy it to OpenShift on the IBM Cloud.
+This workshop demonstrates how to build a microservice with Java and various ways on how to deploy it to OpenShift on the IBM Cloud. 
 
 The microservice is kept as simple as possible so that it can be used as a starting point for other microservices. The microservice has been developed with Jakarta EE and [Eclipse MicroProfile](https://microprofile.io/). It is part of our [Cloud Native Starter](https://github.com/IBM/cloud-native-starter) project which basically consists of 3 microservices:
 
