@@ -25,7 +25,9 @@ There are [various ways to deploy applications to OpenShift](http://heidloff.net
 
 This workshop has eight labs and should take around 90 minutues to complete. 
 
-The first lab describes how to install all required prerequisites. In the easiest case this means accessing the IBM Cloud Shell.
+Lab 0 describes how to install all required prerequisites. In the easiest case this means accessing the IBM Cloud Shell.
+
+Lab 1 is a Kubernetes refresher to provide an overview of some of the powerful features of Kubernetes. If you're already familiar with Kubernetes, this lab is optional for you.
 
 <**OPTIONAL**>
 Lab 2 and 3 describe how to develop a microservice with Java EE and Eclipse MicroProfile and are useful if you are interested in coding.
@@ -44,7 +46,8 @@ The next four labs show four different ways to deploy applications to OpenShift 
 
 To continue with the workshop follow these steps:
 
-1. **>> [Prerequisites](1-prereqs.md) <<**
+1. **>> [Prerequisites](0-prereqs.md) <<**
+1. [Kubernetes Basics](1-k8s.md)
 1. [OPTIONAL: Running the Java microservice locally](2-docker.md)
 1. [OPTIONAL: Understanding the Java implementation](3-java.md)
 1. [Deploying to OpenShift via 'oc' CLI](4-openshift.md)
