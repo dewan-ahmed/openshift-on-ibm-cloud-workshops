@@ -77,5 +77,5 @@ $ ROOT_FOLDER=$(pwd)
 
 ---
 
-__Continue with [Lab 4 - Deploying to OpenShift](4-openshift.md)__
+__Continue with [Lab 1 - Kubernetes Basics](1-k8s.md)__
 
